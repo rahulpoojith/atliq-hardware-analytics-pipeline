@@ -19,7 +19,6 @@ Thumbs.db
 # Generated data and conversion outputs
 data/processed/
 data/staging/
-*.csv
 
 # Logs
 *.log
